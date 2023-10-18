@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\week5AndOr\week5AndOr\bin\Debug\net6.0\week5AndOr.exe
+C:\Users\user\source\repos\week5AndOr\week5AndOr\bin\Debug\net6.0\week5AndOr.deps.json
+C:\Users\user\source\repos\week5AndOr\week5AndOr\bin\Debug\net6.0\week5AndOr.runtimeconfig.json
+C:\Users\user\source\repos\week5AndOr\week5AndOr\bin\Debug\net6.0\week5AndOr.dll
+C:\Users\user\source\repos\week5AndOr\week5AndOr\bin\Debug\net6.0\week5AndOr.pdb
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.AssemblyInfo.cs
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.dll
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\refint\week5AndOr.dll
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.pdb
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\week5AndOr.genruntimeconfig.cache
+C:\Users\user\source\repos\week5AndOr\week5AndOr\obj\Debug\net6.0\ref\week5AndOr.dll
